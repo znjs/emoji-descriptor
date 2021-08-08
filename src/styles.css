@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 60%;
+}
+h1 {
+  color: antiquewhite;
+}
+body {
+  width: 75%;
+  margin: 5rem auto;
+  background-color: purple;
+}
